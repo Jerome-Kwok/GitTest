@@ -4,5 +4,7 @@ public class Hello {
 		
 		System.out.println("Hello Git222 !!!");
 		System.out.println("Hello World");
+		
+		System.out.println("modify Hello.java");
 	}
 }
